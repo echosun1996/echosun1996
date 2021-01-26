@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 ![Github Info](https://github-readme-stats.vercel.app/api?username=echosun1996&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
-<！-START_SECTION：waka->
-<！-END_SECTION：waka->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
