@@ -1,4 +1,4 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm EchoSun.</h2>
 <p align="center">
   <a href="https://blog.echosun.top">Blog</a> •
 </p>
@@ -10,7 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [E-mail](echosun1996@126.com)
 -->
 
-![Github Info](https://github-readme-stats.vercel.app/api?username=echosun1996&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+-------
 
+
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+-------
+![Github Info](https://github-readme-stats.vercel.app/api?username=echosun1996&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
