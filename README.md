@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [how to use zinit with zsh? Append or make a new file?](https://stackoverflow.com/questions/61891544/how-to-use-zinit-with-zsh-append-or-make-a-new-file)
+- [Answer by Echo for Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right/60907592#60907592)
+- [Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- blog::START -->
