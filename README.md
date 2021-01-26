@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 - [FirstPost](https://blog.echosun.top/posts/a5ca317e.html)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- blog::START -->
-<!-- blog::END -->
-
 -------
 
 📊 **Weekly development breakdown**
