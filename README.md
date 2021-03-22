@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [how to use zinit with zsh? Append or make a new file?](https://stackoverflow.com/questions/61891544/how-to-use-zinit-with-zsh-append-or-make-a-new-file)
-- [Answer by Echo for Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right/60907592#60907592)
-- [Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right)
+- [Harry Potter 1-2 THE VANISHING GLASS](https://blog.echosun.top/posts/5d4f2984.html)
+- [GoLang 种种细节备忘](https://blog.echosun.top/posts/cbd96d79.html)
+- [威尔莫特一致性指数 (WIA， Willmott’ s Index of Agreement)](https://blog.echosun.top/posts/180c5c6c.html)
+- [OBS for Mac 多平台推送辅助工具开发笔记](https://blog.echosun.top/posts/42237346.html)
+- [误差函数](https://blog.echosun.top/posts/74f30eb7.html)
 <!-- BLOG-POST-LIST:END -->
 
 -------
