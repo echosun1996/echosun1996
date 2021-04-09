@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [【NEWS精读】墨西哥新冠死亡人数猛增](https://blog.echosun.top/posts/499346a6.html)
+- [英语六级2019年6月第2套试卷分析](https://blog.echosun.top/posts/ee063987.html)
+- [英语六级2018年12月第1套试卷分析](https://blog.echosun.top/posts/8593d395.html)
+- [Harry Potter 1-3 THE LETTERS FROM NO ONE](https://blog.echosun.top/posts/41fbc48a.html)
 - [Harry Potter 1-2 THE VANISHING GLASS](https://blog.echosun.top/posts/5d4f2984.html)
-- [GoLang 种种细节备忘](https://blog.echosun.top/posts/cbd96d79.html)
-- [威尔莫特一致性指数 (WIA， Willmott’ s Index of Agreement)](https://blog.echosun.top/posts/180c5c6c.html)
-- [OBS for Mac 多平台推送辅助工具开发笔记](https://blog.echosun.top/posts/42237346.html)
-- [误差函数](https://blog.echosun.top/posts/74f30eb7.html)
 <!-- BLOG-POST-LIST:END -->
 
 -------
