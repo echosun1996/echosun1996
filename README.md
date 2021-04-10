@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [【NEWS精读】美国跪杀黑人弗洛伊德的警员受审](https://blog.echosun.top/posts/ebf1d287.html)
+- [【NEWS精读】德国暂停为60岁以下人群接种阿斯利康疫苗](https://blog.echosun.top/posts/f2f27eca.html)
 - [【NEWS精读】墨西哥新冠死亡人数猛增](https://blog.echosun.top/posts/499346a6.html)
 - [英语六级2019年6月第2套试卷分析](https://blog.echosun.top/posts/ee063987.html)
 - [英语六级2018年12月第1套试卷分析](https://blog.echosun.top/posts/8593d395.html)
-- [Harry Potter 1-3 THE LETTERS FROM NO ONE](https://blog.echosun.top/posts/41fbc48a.html)
-- [Harry Potter 1-2 THE VANISHING GLASS](https://blog.echosun.top/posts/5d4f2984.html)
 <!-- BLOG-POST-LIST:END -->
 
 -------
