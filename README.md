@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [英语日记](https://blog.echosun.top/posts/51ddcc83.html)
+- [【NEWS精读】智利将在4月关闭边境](https://blog.echosun.top/posts/4b10b6da.html)
+- [英语六级2018年6月第1套试卷分析](https://blog.echosun.top/posts/a9429634.html)
 - [【NEWS精读】美国跪杀黑人弗洛伊德的警员受审](https://blog.echosun.top/posts/ebf1d287.html)
 - [【NEWS精读】德国暂停为60岁以下人群接种阿斯利康疫苗](https://blog.echosun.top/posts/f2f27eca.html)
-- [【NEWS精读】墨西哥新冠死亡人数猛增](https://blog.echosun.top/posts/499346a6.html)
-- [英语六级2019年6月第2套试卷分析](https://blog.echosun.top/posts/ee063987.html)
-- [英语六级2018年12月第1套试卷分析](https://blog.echosun.top/posts/8593d395.html)
 <!-- BLOG-POST-LIST:END -->
 
 -------
