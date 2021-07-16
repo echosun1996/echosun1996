@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+VimL       54 mins         ██████████████████▓░░░░░░   74.82 % 
+Markdown   10 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Python     7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 ```
 <!--END_SECTION:waka-->
 
