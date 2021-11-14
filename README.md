@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [The Little Prince](https://blog.echosun.top/posts/30f86c62.html)
-- [Harry Potter 1-5 DIAGON ALLEY](https://blog.echosun.top/posts/1d896b9.html)
-- [Harry Potter 1-4 THE KEEPER OF THE KEYS](https://blog.echosun.top/posts/1f4ea593.html)
-- [英语日记](https://blog.echosun.top/posts/51ddcc83.html)
-- [【NEWS精读】智利将在4月关闭边境](https://blog.echosun.top/posts/4b10b6da.html)
+- [how to use zinit with zsh? Append or make a new file?](https://stackoverflow.com/questions/61891544/how-to-use-zinit-with-zsh-append-or-make-a-new-file)
+- [Answer by Echo for Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right/60907592#60907592)
+- [Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right)
 <!-- BLOG-POST-LIST:END -->
 
 -------
