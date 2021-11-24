@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [how to use zinit with zsh? Append or make a new file?](https://stackoverflow.com/questions/61891544/how-to-use-zinit-with-zsh-append-or-make-a-new-file)
-- [Answer by Echo for Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right/60907592#60907592)
-- [Programming in Python, tab completion in spacemacs not right](https://stackoverflow.com/questions/60898546/programming-in-python-tab-completion-in-spacemacs-not-right)
+- [Harry Potter 1-7 THE POTIONS MASTER](https://blog.echosun.top/posts/444fdcb5.html)
+- [Harry Potter 1-6 THE JOURNEY FROM PLATFORM NINE AND THREE-QUARTERS](https://blog.echosun.top/posts/b124e4c3.html)
+- [乐理基础](https://blog.echosun.top/posts/de23edaf.html)
+- [Coco](https://blog.echosun.top/posts/78b3e07f.html)
+- [A类业余无线电操作证考试试题讲解](https://blog.echosun.top/posts/8a816489.html)
 <!-- BLOG-POST-LIST:END -->
 
 -------
