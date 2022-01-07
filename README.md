@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
-Python   13 mins         ██████████████████████░░░   88.42 % 
-Other    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
