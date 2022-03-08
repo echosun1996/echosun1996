@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Text               1 hr 15 mins    █████████████████████▓░░░   86.38 %
-requirements.txt   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Python             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-CSV                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Go                 0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Text               1 hr 15 mins    ████████████████████▒░░░░   81.13 %
+requirements.txt   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+Python             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+VimL               4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Other              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
