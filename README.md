@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python             3 hrs 43 mins   █████████████████████░░░░   83.89 %
-SQL                35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 %
-Text               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-requirements.txt   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-JSON               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-PythonStub         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python             3 hrs 43 mins   ████████████████████▒░░░░   80.74 %
+SQL                35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.02 %
+CSV/TSV            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Text               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+requirements.txt   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+conf               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
