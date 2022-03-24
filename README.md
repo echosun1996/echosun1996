@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-CSV/TSV   9 mins          ███████████████████████▒░   93.68 %
-conf      0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
