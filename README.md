@@ -27,9 +27,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Swift        11 hrs 27 mins  ████████████████████████░   96.63 %
-Cocoa        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Swift        15 hrs 28 mins  ████████████████████████▒   96.76 %
+Cocoa        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
