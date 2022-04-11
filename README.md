@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Swift              15 hrs 28 mins  ██████████████████████▓░░   91.30 %
-Python             49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Cocoa              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-Git Config         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Markdown           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-GitIgnore file     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Swift              15 hrs 28 mins  ██████████████████████▒░░   89.01 %
+Python             1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Cocoa              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Git Config         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Markdown           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+CSV/TSV            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
