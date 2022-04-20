@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter          11 hrs 27 mins  █████████████▓░░░░░░░░░░░   54.03 %
-Python           4 hrs 21 mins   █████░░░░░░░░░░░░░░░░░░░░   20.53 %
-Swift            2 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Markdown         2 hrs 20 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.01 %
-CSV/TSV          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Jupyter          8 hrs 1 min     ██████████▒░░░░░░░░░░░░░░   41.84 %
+Python           4 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
+Swift            3 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.81 %
+Markdown         2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
+CSV/TSV          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
