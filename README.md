@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter    1 min           ██████████████▓░░░░░░░░░░   59.13 %
-Markdown   0 secs          ███████▒░░░░░░░░░░░░░░░░░   29.29 %
-XML        0 secs          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Jupyter    1 min           █████████████████░░░░░░░░   67.39 %
+Markdown   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+XML        0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.19 %
 ```
 
 <!--END_SECTION:waka-->
