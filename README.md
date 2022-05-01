@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter   0 secs          ███████████████▓░░░░░░░░░   62.95 %
-XML       0 secs          █████████▒░░░░░░░░░░░░░░░   37.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
