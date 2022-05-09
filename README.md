@@ -27,8 +27,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python    9 mins          ████████████████████████▓   98.26 %
-Jupyter   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Go         31 mins         █████████▓░░░░░░░░░░░░░░░   38.37 %
+Python     23 mins         ███████░░░░░░░░░░░░░░░░░░   28.06 %
+Git        14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.60 %
+SQL        12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Jupyter    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
