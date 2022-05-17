@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go        1 hr 36 mins    █████████████▓░░░░░░░░░░░   54.52 %
-Python    1 hr 20 mins    ███████████▒░░░░░░░░░░░░░   45.26 %
-Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python    1 hr 20 mins    ████████████████████████░   96.60 %
+Go        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Text      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
