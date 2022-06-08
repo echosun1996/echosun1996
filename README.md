@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   10 mins         ██████████████████████▒░░   89.47 %
-Jupyter    1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
