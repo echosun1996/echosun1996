@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Python          8 hrs 33 mins   █████████████████████████   99.68 %
-CSV/TSV         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Markdown        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python          11 hrs 28 mins  ████████████████████████▓   99.32 %
+CSV/TSV         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Text            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Markdown        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
