@@ -1,7 +1,4 @@
 <h2 align="center">👋 Hello! I'm EchoSun.</h2>
-<p align="center">
-  <a href="https://blog.echosun.top">Blog</a> •
-</p>
 
 Here are some ideas to get you started:
 
@@ -10,16 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [E-mail](echosun1996@126.com)
 -->
 
--------
-**📝 Latest Blog Posts**
-
-<!-- BLOG-POST-LIST:START -->
-- [Harry Potter 1-7 THE POTIONS MASTER](https://blog.echosun.top/posts/444fdcb5.html)
-- [Harry Potter 1-6 THE JOURNEY FROM PLATFORM NINE AND THREE-QUARTERS](https://blog.echosun.top/posts/b124e4c3.html)
-- [乐理基础](https://blog.echosun.top/posts/de23edaf.html)
-- [Coco](https://blog.echosun.top/posts/78b3e07f.html)
-- [A类业余无线电操作证考试试题讲解](https://blog.echosun.top/posts/8a816489.html)
-<!-- BLOG-POST-LIST:END -->
 
 -------
 
